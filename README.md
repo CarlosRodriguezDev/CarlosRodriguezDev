@@ -2,7 +2,7 @@
 ![Banner](/assets/main-banner.png)
 
 # Carlos Andrés Rodríguez Ruiz
-**🖥️ Software Developer | 🕵🏻 FullStack - HTML - CSS - JS - Python | 🔒 Cibersecurity | 🪄 A.I.**
+**🖥️ Software Developer | 🕵🏻 FullStack | 📄 HTML | 🎨 CSS | 📜 JS | 🐍 Python | 🔒 Cibersecurity | 🪄 A.I.**
 
 ---
 
